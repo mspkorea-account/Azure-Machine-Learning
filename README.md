@@ -6,5 +6,5 @@ Azure Machine Learning 자료를 모아둔 공간입니다.
 * [2016-11-29] Azure ML으로 시작하는 Machine Learning : 머신러닝에서 사용되는 주요 알고리즘을 살펴보고, Azure ML Studio를 이용하여 붓꽃의 종류를 분류하는 실습을 진행하였습니다.
 
 ## 관련자료 
-* [[2016-11-29] Azure ML으로 시작하는 Machine Learning - Github](https://github.com/wwiiiii/MSPseminar_LearningMachine)
+* [LearningMachine팀 Github](https://github.com/wwiiiii/MSPseminar_LearningMachine)
 
