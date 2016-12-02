@@ -13,7 +13,7 @@ Machine Learning, 즉 기계를 학습 시켜서 인간의 삶을 좀 더 풍요
 살펴보시면 재미난 서비스들이 많은데요, 내가 몇살인지 맞추는 How-Old.net 이라는 서비스와, 사진을 업로드하면 사진에 대한 재미난 설명을 달아주는 Captionbot.ai 라는 서비스도 있습니다. 당장 테스트 고고!!
 
 ![Howold](./images/002.jpg)
-![captionbot](./images/004.jpg)
+![captionbot](./images/004.JPG)
 
 우리아이가 달라졌어요를 방불케하는 유명 검색엔진들의 번역 서비스 성능 향상에도 머신러닝 기술이 크게 작용을 했다고 합니다. 
 
