@@ -12,12 +12,14 @@ Machine Learning, 즉 기계를 학습 시켜서 인간의 삶을 좀 더 풍요
 이 뿐만이 아닙니다! 마이크로소프트도 Cognitive Services 라는 것을 발표했는데 (사람들이 잘 모르는게 함정...)  이 또한 머신러닝 기술을 이용하여 개발된 것입니다.
 살펴보시면 재미난 서비스들이 많은데요, 내가 몇살인지 맞추는 How-Old.net 이라는 서비스와, 사진을 업로드하면 사진에 대한 재미난 설명을 달아주는 Captionbot.ai 라는 서비스도 있습니다. 당장 테스트 고고!!
 
-![Howold](./images/002.jpg)
-![captionbot](./images/004.JPG)
+![Howold](./images/002.PNG)
+[how-Old.net](http://how-old.net/)에서 버락 오바마 사진을 테스트 해본 결과 42라네요! 핫! 
+![captionbot](./images/003.PNG)
+[Captionbot.ai](https://www.captionbot.ai/) 에서 사진을 업로드해보니 에릭인지 맞추네요? 신기해라~ 
 
 우리아이가 달라졌어요를 방불케하는 유명 검색엔진들의 번역 서비스 성능 향상에도 머신러닝 기술이 크게 작용을 했다고 합니다. 
-
-// img3
+![translator](./images/004.jpg)
+구글 번역기에 GNMT라는 신경망 기게번역 기술이 도입되어 번역의 퀄리티가 더욱 업그레이드 되었다고 합니다. 
 
 ## 머신러닝, 어떻게 사용할 수 있는가?
 머신러닝 기술에서 기계를 학습시키는 방법은 크게 세가지로 구분됩니다. 정답을 알려주고 학습을 시키는 지도학습(Supervised Learning), 서로 비슷한 것 끼리 분류하며 학습하는 비지도 학습(Unsupervised Learning), 마지막으로 시행착오를 겪으며 어떤 행동에 대에 보상을 받는 방식으로 학습해나가는 강화학습(Reinforcement Learing)이 있습니다. 
