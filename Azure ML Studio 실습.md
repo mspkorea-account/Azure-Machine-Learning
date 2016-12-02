@@ -21,8 +21,8 @@ Supervised / Unsupervised Learning 를 지원합니다.
 ![009](./images/009.PNG)
 
 ## Step 3 - 데이터 로딩
-* 왼쪽의 Data Input and Output에서Import data 모듈 드래그
-![010](./images/010.png)
+* 왼쪽의 Data Input and Output 에서 Import data 모듈 드래그
+![010](./images/010.PNG)
 * Data source : Web URL via HTTP
 * URL : http://mlr.cs.umass.edu/ml/machine-learning-databases/iris/iris.data
 
