@@ -34,3 +34,8 @@ Machine Learning, 즉 기계를 학습 시켜서 인간의 삶을 좀 더 풍요
 * 강화학습 : (상태, 행동)에 대한 보상으로 훈련, Markov Decision Process 주로 사용
 
 이 세가지 학습 방법은 상호 보완적인 관계입니다. 해결하고 싶은 문제가 있으신 경우 학습 방법을 적절히 섞어서 이용하실 수도 있습니다. 
+
+마이크로소프트도 머신러닝과 관련된 기술과 제품을 가지고 있습니다. Azure ML Studio를 이용하여 지도학습과, 비지도 학습을 아주아주 쉽고 간편하게 실습해보실 수 있습니다. 또한, 구글의 텐서플로우 처럼 마이크로소프트 리서치 팀이 만든 CNTK 라는 오픈소스 딥러닝 툴킷도 있습니다! 
+
+* [Azure ML Studio](https://azure.microsoft.com/ko-kr/services/machine-learning/)
+* [마이크로소프트의 오픈소스 딥러닝 툴킷 - CNTK](https://github.com/Microsoft/CNTK) 
